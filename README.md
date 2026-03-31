@@ -10,7 +10,7 @@
 
 **A full-stack cybersecurity application that evaluates password strength and simulates real-world dictionary attacks.**
 
-*Developed by **Aftab Husain** | CDAC Academic Initiative*
+*Developed by **Aftab Husain**
 
 </div>
 
