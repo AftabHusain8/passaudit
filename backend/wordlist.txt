@@ -1,0 +1,42 @@
+# wordlist.txt — PassAudit Dictionary Attack Wordlist
+# Author: Aftab Husain | CDAC
+#
+# Add one password per line.
+# The engine will also check lowercase and leet-speak variants automatically.
+# For production, replace or extend with: rockyou.txt, darkweb2017-top10000.txt
+#
+password
+123456
+qwerty
+letmein
+admin
+welcome
+monkey
+dragon
+master
+abc123
+superman
+batman
+princess
+iloveyou
+trustno1
+sunshine
+football
+baseball
+shadow
+michael
+hunter2
+hunter
+cheese
+purple
+orange
+silver
+golden
+crystal
+phoenix
+matrix
+hackme
+crackme
+securepass
+mysecret
+toppassword
