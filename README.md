@@ -201,7 +201,7 @@ Runs the complete three-stage audit pipeline.
 ```json
 {
   "author": "Aftab Husain",
-  "project": "PassAudit v2.0 — CDAC",
+  "project": "PassAudit v2.0",
   "score": 85,
   "level": "Excellent",
   "entropy_bits": 61.4,
@@ -275,11 +275,11 @@ Runs the complete three-stage audit pipeline.
 
 ### Aftab Husain
 
-**CDAC Student | Cybersecurity & Full-Stack Development**
+**Cybersecurity & Full-Stack Development**
 
 [![GitHub](https://img.shields.io/badge/GitHub-AftabHusain8-181717?style=for-the-badge&logo=github)](https://github.com/AftabHusain8)
 
-*This project was developed as part of the CDAC academic initiative to demonstrate practical cybersecurity concepts including password entropy, cryptographic hashing, and dictionary-based attack simulation.*
+*This project was developed as part of the demonstrate practical cybersecurity concepts including password entropy, cryptographic hashing, and dictionary-based attack simulation.*
 
 </div>
 
@@ -289,7 +289,7 @@ Runs the complete three-stage audit pipeline.
 
 ```
 MIT License
-Copyright (c) 2024 Aftab Husain
+Copyright (c) 2026 Aftab Husain
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software for educational and personal use.
@@ -304,6 +304,6 @@ Built for academic and learning purposes only.
 
 **⭐ If you found this project helpful, please star it on GitHub!**
 
-*Made with ❤️ by Aftab Husain | CDAC 2024*
+*Made with ❤️ by Aftab Husain*
 
 </div>
