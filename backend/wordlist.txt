@@ -1,5 +1,5 @@
 # wordlist.txt — PassAudit Dictionary Attack Wordlist
-# Author: Aftab Husain | CDAC
+# Author: Aftab Husain 
 #
 # Add one password per line.
 # The engine will also check lowercase and leet-speak variants automatically.
